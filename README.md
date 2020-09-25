@@ -1,6 +1,11 @@
-# linodev_plantapp_code01
+# linodev plantapp code01
 
-A new Flutter project.
+olant app with flutter 
+
+for use , clone project on your pc and Run it at android Studio Or Vs code
+Do not forget that you must have Flutter and Dart plugins installed in Android Studio or Visual Studio Code
+
+good lock , linodev
 
 ## Getting Started
 
